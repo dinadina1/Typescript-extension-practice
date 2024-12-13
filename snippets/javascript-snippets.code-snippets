@@ -1,0 +1,12 @@
+
+{
+    "Print to console": {
+        "scope": "javascript",
+        "prefix": "print",
+        "body": [
+            "console.log('$1');",
+            "$2"
+        ],
+        "description": "Add Prefix to console.log"
+    }
+}
